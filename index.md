@@ -19,7 +19,7 @@ git commit
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
-[Relative link to PRIVATE.txt](PRIVATE.txt)
+[Relative link to PRIVATE.txt](Aryan-Project/PRIVATE.txt)
 
 Unordered list of car brands:
 - Ford
